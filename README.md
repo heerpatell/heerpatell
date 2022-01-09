@@ -10,7 +10,7 @@ I'm Heer Patel, a self-motivated tech-savvy who's passionate about learning tech
   <a href="https://heer-patel-portfolio.herokuapp.com/">Website</a>
   or <a href="https://www.linkedin.com/in/heer-patel-700235206/">LinkedIn</a>
 <br/>
-- 😄 Pronouns: ### she/her
+- 😄 Pronouns: she/her
 <br/>
 - ⚡ Fun fact: Besides Programming, I like illustrating, editing🖼, travelling, gardening.
 
