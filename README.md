@@ -3,14 +3,19 @@
 I'm Heer Patel, a self-motivated tech-savvy who's passionate about learning tech stuff.
 </p>
 - 🔭 I’m currently working on *MERN stack
+<br/>
 - 🌱 I’m currently learning *Natural language processing 
+<br/>
 - 📫 How to reach me: 
   [website](https://heer-patel-portfolio.herokuapp.com/) or [LinkedIn](https://www.linkedin.com/in/heer-patel-700235206/) 
-- 😄 Pronouns: **she/her**
-- ⚡ Fun fact: *Besides Programming, I like illustrating, editing, travelling, gardening.
+<br/>
+- 😄 Pronouns: **she/her
+<br/>
+- ⚡ Fun fact: Besides Programming, I like illustrating, editing, travelling, gardening.
 
 ---
 **stats**
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heerpatell&show_icons=true&theme=radical)
 
 <br/>
