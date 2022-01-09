@@ -2,14 +2,14 @@
 <p align="center">
 I'm Heer Patel, a self-motivated tech-savvy who's passionate about learning tech stuff.
 </p>
-- 🔭 I’m currently working on *MERN stack
+- 🔭 I’m currently working on _MERN stack_
 <br/>
-- 🌱 I’m currently learning *Natural language processing 
+- 🌱 I’m currently learning _Natural language processing_
 <br/>
 - 📫 How to reach me: 
-  [website](https://heer-patel-portfolio.herokuapp.com/) or [LinkedIn](https://www.linkedin.com/in/heer-patel-700235206/) 
+  [website](https://heer-patel-portfolio.herokuapp.com/) or [LinkedIn](https://www.linkedin.com/in/heer-patel-700235206/)  
 <br/>
-- 😄 Pronouns: **she/her
+- 😄 Pronouns: **she/her**
 <br/>
 - ⚡ Fun fact: Besides Programming, I like illustrating, editing, travelling, gardening.
 
