@@ -12,7 +12,7 @@ I'm Heer Patel, a self-motivated tech-savvy who's passionate about learning tech
 <br/>
 - 😄 Pronouns: she/her
 <br/>
-- ⚡ Fun fact: Besides Programming, I like illustrating, editing🖼, travelling, gardening.
+- ⚡ Fun fact: I like illustrating, editing🖼, travelling, gardening.
 
 ---
 **stats**
